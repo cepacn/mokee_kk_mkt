@@ -1,0 +1,3 @@
+add_lunch_combo mk_pluto-user
+add_lunch_combo mk_pluto-userdebug
+add_lunch_combo mk_pluto-eng
